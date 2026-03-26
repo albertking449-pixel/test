@@ -1,0 +1,65 @@
+body{
+    background:url(https://www.shutterstock.com/image-photo/epic-deep-blie-football-stadium-260nw-2581451581.jpg);
+     opacity:1; background-size: cover;
+    color:yellowgreen;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+p{
+    width: 50rem;
+    color:turquoise;
+    font-size:1.5rem;
+    line-height: 2;
+    margin-top: 20rem;
+    margin-left: 2rem;
+}
+.navigation {
+    background: url(https://img.freepik.com/free-photo/card-soft-template-paper-report_1258-167.jpg?semt=ais_hybrid&w=740&q=80);
+    padding: 0.8rem;
+    position: fixed;
+    top: 0;
+    left:0;
+    right:0;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+}
+.navigation a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 1.2rem;
+    padding-left: 1.5rem;
+}
+a:active{
+    color:red;
+    background: gold;
+    
+}
+.btn1{
+    margin-left:95%;
+    
+    bottom:0;
+color:red;}
+#tm{
+    margin-left:71rem;
+    margin-top: 2.5rem;
+    background: gold;
+    color:black;
+position: relative;}
+.search{
+    margin-left: 25rem;
+    padding: 0.5rem;
+    margin-top: 3rem;
+    font-size: 1rem;
+    align-items: center;
+    width: 18rem;
+    border-radius: 1rem;
+    text-align: center;
+    text-transform: inherit;
+}
+
+mark{
+    background: white;
+    color:red;
+}
